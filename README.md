@@ -2,7 +2,7 @@
 
 # Energy-Club Website
 
-This repository contains the code fot Energy Club.
+This repository contains the code for Energy Club.
 
 ## How to Contribute?
 
