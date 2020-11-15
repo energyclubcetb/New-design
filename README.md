@@ -1,9 +1,10 @@
-#Energy-Club Website
+# 
 
+# Energy-Club Website
 
-This is the website of Energy-Club.
+This repository contains the code fot Energy Club.
 
-##How to Contribute?
+## How to Contribute?
 
 Follow the steps below to contribute to the repository.
 
